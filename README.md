@@ -1,4 +1,4 @@
-# Unibh-Gabarito-Brute-Force
+# Unibh-Gabarito-Fuzzing
 Just having fun
 
 21/11/2018 - Descoberta.
