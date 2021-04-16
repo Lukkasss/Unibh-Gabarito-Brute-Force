@@ -7,4 +7,4 @@ Just having fun
 
 21/03/2019 - Gambiarra para esconder, mas ainda funcionando.
 
-29/09/2019 - Repositório se tornará público apenas para referência, vulnerabilidade corrigida.
+29/09/2019 - Repositório se tornará público apenas para referência, misconfiguration corrigida.
